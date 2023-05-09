@@ -1,0 +1,6 @@
+appetizers
+chwings,"chicken wings",10.50
+grshrimp,"Grilled Shrimp",10.50
+sandwiches
+drfsandw,"Fish Sandwich", 15
+smkfsandw,"Smoked Salmon Sandwich",15
